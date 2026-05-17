@@ -4,7 +4,8 @@ Contenu généré par IA, des erreurs peuvent subsister.
 
 ## Batch sync_mod
 
-# Permet la synchronisation des mods du serveur vers le client
+####
+Permet la synchronisation des mods du serveur vers le client
 
 | Mod | Description | Lien |
 | --- | --- | --- |
