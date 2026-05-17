@@ -1,6 +1,14 @@
 # Documentation des mods disponible
 ####
 Contenu généré par IA, des erreurs peuvent subsister.
+
+## Batch sync_mod
+
+####
+Permet la synchronisation des mods du serveur vers le client
+
+A placer dans le dossier mods Minecraft est double cliquer
+
 | Mod | Description | Lien |
 | --- | --- | --- |
 | Amendments | Ajouts “vanilla-like” décoratifs et QoL (blocs, petites mécaniques) pour enrichir le jeu sans le dénaturer. | https://modrinth.com/mod/amendments |
